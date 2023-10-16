@@ -1,7 +1,4 @@
 #EXTM3U
  
-#EXTINF:-1, PTC 1: The Curse of the Black Pearl (2003)
-http://fs.ebox.live/Movies/Hollywood/2003/Pirates%20of%20The%20Caribbean%20The%20Curse%20of%20the%20Black%20Pearl%20[2003]/Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003__BRrip__E-BOX.mkv
-
-#EXTINF:-1, PTC 2: Dead Man's Chest (2006)
-http://fs.ebox.live/Movies/Hollywood/2006/Pirates%20of%20the%20Caribbean%20Dead%20Man%27s%20Chest%20[2006]/Pirates.of.the.Caribbean.Dead.Man%27s.Chest.2006__BRrip__E-BOX.mkv
+#EXTINF:-1, Fantastic Four: Rise of the Silver Surfer
+http://fs.ebox.live/Movies/Hollywood/2007/Fantastic%204%3A%20Rise%20of%20the%20Silver%20Surfer%20[2007]/Fantastic.Four.Rise.of.The.Silver.Surfer.2007__HDrip__E-BOX.mkv
