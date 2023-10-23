@@ -1,18 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1, 32 JavaScript Bangla Tutorial | Booleans
-https://www.youtube.com/watch?v=jvxC5bRF1LQ
-
-#EXTINF:-1, 33 JavaScript Bangla Tutorial | JavaScript Comparisons
-https://www.youtube.com/watch?v=1swGWyGvTko
-
-#EXTINF:-1, 34 JavaScript Bangla Tutorial | Conditions
-https://www.youtube.com/watch?v=qcsExzWfWXs
-
-#EXTINF:-1, 35 JavaScript Bangla Tutorial | for loop
+#EXTINF:-1, 35 JavaScript Bangla Tutorial | for loop group-title="Group1
 https://www.youtube.com/watch?v=Qq9dVX35ykk
 
-#EXTINF:-1, 36 JavaScript Bangla Tutorial | for in loop
+#EXTINF:-1, 36 JavaScript Bangla Tutorial | for in loop group-title="Group1
 https://www.youtube.com/watch?v=hZoJTiYHku0
 
 #EXTINF:-1, 37 JavaScript Bangla Tutorial | for of loop
