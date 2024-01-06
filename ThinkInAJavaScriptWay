@@ -1,55 +1,82 @@
 #EXTM3U
-#EXTINF:0,JavaScript - One Programming Language to rule them all [ Explained in Bangla ]
+
+#EXTINF:-1, JavaScript - One Programming Language to rule them all [ Explained in Bangla ]
 https://www.youtube.com/watch?v=KuhLGuNxF8U
-#EXTINF:0,JavaScript Scopes - the ultimate weirdo! -  - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, JavaScript Scopes - the ultimate weirdo! -  - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=YJMdjddGMmQ
-#EXTINF:0,JavaScript var, let, const - Not so simple! - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, JavaScript var, let, const - Not so simple! - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=6LvKgfLP8uU
-#EXTINF:0,JavaScript Closures are not that scary! - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, JavaScript Closures are not that scary! - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=9acXwUkddZI
-#EXTINF:0,JavaScript Hoisting - No more confusion! - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, JavaScript Hoisting - No more confusion! - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=pT9xqCS8Vwk
-#EXTINF:0,Prototype - the foundation of JavaScript - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, Prototype - the foundation of JavaScript - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=Z45VQuHO_VA
-#EXTINF:0,JavaScript Prototype Inheritance & ES6 Class - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, JavaScript Prototype Inheritance & ES6 Class - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=93Styj1K9fY
-#EXTINF:0,JavaScript 'this' keyword tutorial in Bangla - .call(), .apply() and .bind()
+
+#EXTINF:-1, JavaScript 'this' keyword tutorial in Bangla - .call(), .apply() and .bind()
 https://www.youtube.com/watch?v=uZqyRJkTQog
-#EXTINF:0,Execution Context - How JavaScript runs your code - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, Execution Context - How JavaScript runs your code - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=Wk0-6b1W_VQ
-#EXTINF:0,JavaScript Higher Order Functions are easy - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, JavaScript Higher Order Functions are easy - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=eKrSOaoNHPM
-#EXTINF:0,Asynchronous JavaScript - callbacks, promises and async-await - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, Asynchronous JavaScript - callbacks, promises and async-await - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=IUBd76UQb34
-#EXTINF:0,Recursion in JavaScript - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, Recursion in JavaScript - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=ueJiRQK6FYY
-#EXTINF:0,JavaScript Event Loop & its functions - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, JavaScript Event Loop & its functions - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=juHkuCtMGtQ
-#EXTINF:0,Primitive vs Reference - What's the difference - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, Primitive vs Reference - What's the difference - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=vK8fnE_-NI0
-#EXTINF:0,Best Practices of JavaScript - Part 1 - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, Best Practices of JavaScript - Part 1 - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=NXsB6VJcscs
-#EXTINF:0,XMLHttpRequest - AJAX Bangla Tutorial - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, XMLHttpRequest - AJAX Bangla Tutorial - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=abQEHpeXeFo
-#EXTINF:0,ES6 Symbols - Why are they awesome - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, ES6 Symbols - Why are they awesome - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=OhXI8qsf9h8
-#EXTINF:0,ES6 Iterators - the Essential Guide - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, ES6 Iterators - the Essential Guide - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=JXzQ0Aarnzc
-#EXTINF:0,ES6 Generators - What | Why | How - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, ES6 Generators - What | Why | How - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=DNC6MxpCueY
-#EXTINF:0,What is Currying in JavaScript - JavaScript Bangla ( বাংলা ) Tutorial
+
+#EXTINF:-1, What is Currying in JavaScript - JavaScript Bangla ( বাংলা ) Tutorial
 https://www.youtube.com/watch?v=oPRx4A13ytI
-#EXTINF:0,Debounce Function in JavaScript - JavaScript Job Interview question
+
+#EXTINF:-1, Debounce Function in JavaScript - JavaScript Job Interview question
 https://www.youtube.com/watch?v=dD9O8DnIBj4
-#EXTINF:0,Memoization - A Powerful Technique for JavaScript Optimization
+
+#EXTINF:-1, Memoization - A Powerful Technique for JavaScript Optimization
 https://www.youtube.com/watch?v=pIsFoLAhPrk
-#EXTINF:0,Intersection Observer API in JavaScript | Web Development Tutorial
+
+#EXTINF:-1, Intersection Observer API in JavaScript | Web Development Tutorial
 https://www.youtube.com/watch?v=D1XeL4HF8lI
-#EXTINF:0,Is javascript single threaded? - Web Workers API explained
+
+#EXTINF:-1, Is javascript single threaded? - Web Workers API explained
 https://www.youtube.com/watch?v=hhGB2fH7_XQ
-#EXTINF:0,Mastering JavaScript Event Delegation: Simplifying DOM Interaction for Web Developers!
+
+#EXTINF:-1, Mastering JavaScript Event Delegation: Simplifying DOM Interaction for Web Developers!
 https://www.youtube.com/watch?v=3wDARp0hEdY
-#EXTINF:0,Mastering JavaScript Event Propagation - Bubbling vs. Capturing Explained
+
+#EXTINF:-1, Mastering JavaScript Event Propagation - Bubbling vs. Capturing Explained
 https://www.youtube.com/watch?v=XnezDeTKVUY
-#EXTINF:0,JavaScript NaN Explained - Unraveling the Mystery and Mastering Equality Algorithms
+
+#EXTINF:-1, JavaScript NaN Explained - Unraveling the Mystery and Mastering Equality Algorithms
 https://www.youtube.com/watch?v=bTCP1UErhRM
